@@ -1,2 +1,3 @@
 # chromatone
-What is Chromatone?
+
+The visual music language for digital era
